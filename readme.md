@@ -21,6 +21,11 @@ git clone --recursive https://github.com/msatyan/azure-umqtt-c.git
 ```
 
 - Create a folder cmake under azure-umqtt-c
+```
+cd azure-umqtt-c
+md cmake   (on linux: mkdir cmake)
+cd cmake
+```
 
 - Switch to the cmake folder and run
 
